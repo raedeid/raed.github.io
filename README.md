@@ -1,37 +1,14 @@
-## Welcome to Raed page
+### Welcome to my mind
 
-You can use the [editor on GitHub](https://github.com/raedeid/raed.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+No body ##born with knowledge so you must accepted theres many thing in the world you dont know any thing about it and that mean more chalange for you if you want to face this chalange you preaper your mind like muscle give it training  
 
-### Markdown
+1- How you can judge on something and saied its hard before finished
+2- you will never feel taste of successes if it was easy 
+3- Remember we get out from thing more diffcult
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+###keep say to your self you can do it this will give you positive energy###
 
-# Header 1
-## Header 2
-### Header 3
+#5 different features of Markdown
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raedeid/raed.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
