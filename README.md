@@ -1,5 +1,5 @@
-#Welcome to my mind#
-
+Welcome to my mind
+===============
 
 No body *born* with knowledge so you must accepted theres many thing in the world you dont know any thing about it and that mean more chalange for you if you want to face this chalange you preaper your mind like muscle give it training  
 
@@ -9,7 +9,7 @@ No body *born* with knowledge so you must accepted theres many thing in the worl
 3. Remember we get out from thing more diffcult
 
 
-##keep say to your self you can do it this will give you positive energy##
+**keep say to your self you can do it this will give you positive energy**
 
 #5 different features of Markdown#
 
